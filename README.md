@@ -12,6 +12,9 @@ Download postman from https://www.postman.com/downloads/
 
 You can import your Postman data (e.g. collections) as well as your API specifications directly into the app.
 
+[Import a collection](media/import.png)
+
+
 To import your data into Postman, click Import in the upper-left corner of the Postman app.
 
 
