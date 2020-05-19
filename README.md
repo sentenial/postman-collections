@@ -11,10 +11,22 @@ Download postman from https://www.postman.com/downloads/
 # Importing Postman Collections
 
 You can import your Postman data (e.g. collections) as well as your API specifications directly into the app.
+To import your data into Postman, click Import in the upper-left corner of the Postman app. Select fodler and point to this cloned repository.
 
 ![Import a collection](media/import.png?raw=true)
 
+# Confirm step
 
-To import your data into Postman, click Import in the upper-left corner of the Postman app.
+You will be presented with a summary page not unlike the page below. Note that you will see both a collection and an environment. The environment will allow you to configure items like your credentials to interact with the API environment (Production/Sandbox). To signup for sandbox access go to the [Nuapay Sandbox Signup](https://www.nuapay.com/en/request-api-sandbox/) page.
+
+![Confirm the import](media/confirm-import.png?raw=true)
+
+# Success
+
+If everything went to plan you will see the collect in your workspace.
+
+![Sucessful Import](media/collection.png?raw=true)
+
+
 
 
