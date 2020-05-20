@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "c0695cb1-8767-4a50-8410-4b54958b1f0f",
-		"name": "Open Banking Merchant PISP Sandbox",
+		"name": "Open Banking Merchant PISP Sandbox Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -9838,21 +9838,21 @@
 	],
 	"variable": [
 		{
-			"id": "1eeea34e-383a-44e8-846b-9a146944c540",
+			"id": "5c43756e-73b5-42de-b29a-95b61ac539ce",
 			"key": "baseUrl",
 			"value": "https://sandbox.nuapay.com",
 			"type": "string"
 		},
 		{
-			"id": "fd12abd8-d6e4-4283-907c-725c7029c00a",
-			"key": "merchantApiKey",
-			"value": "96d7d0616b98b81ab7876826de0711669217564a72961e203d79fa00503733d9",
+			"id": "c6c374d7-cf60-4347-ba92-b1ce81457f49",
+			"key": "baseUrlTpp",
+			"value": "https://sandbox.nuapay.com/tpp",
 			"type": "string"
 		},
 		{
-			"id": "175a7afa-7958-47c2-b7e7-8ab44a1266d3",
-			"key": "baseUrlTpp",
-			"value": "https://sandbox.nuapay.com/tpp",
+			"id": "e96c6668-ff14-4665-b440-017b6fa9a0eb",
+			"key": "merchantApiKey",
+			"value": "",
 			"type": "string"
 		}
 	],
