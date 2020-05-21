@@ -27,6 +27,18 @@ If everything went to plan you will see the collect in your workspace.
 
 ![Sucessful Import](media/collection.png?raw=true)
 
+# Setup the Environment
+Once you’ve successfully imported the collection
 
+*STEP 1* - Select the imported environment from the drop-down (located on the top-right of the Postman application).
+*STEP 2* - Click the Eye icon.
+*STEP 3* - Click Edit.
 
+![Edit The Environment](media/edit.png?raw=true)
 
+# Make Your Changes
+
+The MANAGE ENVIRONMENTS dialog box is displayed.
+Specify your apiKey in the CURRENT VALUE text box:
+
+![Example Environment](media/save.png?raw=true)
