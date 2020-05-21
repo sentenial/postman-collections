@@ -44,5 +44,5 @@ Specify your apiKey in the CURRENT VALUE text box:
 
 ![Example Environment](media/save.png?raw=true)
 
-Thats it use the collections to interact with the APIs.
+That's it! Use your collections to interact with the Nuapay APIs.
 
