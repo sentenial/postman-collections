@@ -8,6 +8,9 @@ This can help you understand the 'Happy Path' of our APIs and this can assist yo
 # Get Postman
 Download postman from https://www.postman.com/downloads/
 
+# Downloading Postman Collections
+To download the postman collections click on the clone or download button, select your appropriate method of download. You can use git or you can download the project as a zip file. Git is the preferred method as you can keep your collection up to date with git easily.
+
 # Importing Postman Collections
 
 You can import your Postman data (e.g. collections) as well as your API specifications directly into the app.
