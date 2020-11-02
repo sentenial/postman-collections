@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Partner Checkout Flow",
+			"name": "Merchant Checkout Flow",
 			"item": [
 				{
 					"name": "payments",
@@ -2663,7 +2663,7 @@
 			"protocolProfileBehavior": {}
 		},
 		{
-			"name": "Partner Self Hosted Flow",
+			"name": "Merchant Self Hosted Flow",
 			"item": [
 				{
 					"name": "banks",
@@ -5703,7 +5703,7 @@
 			"protocolProfileBehavior": {}
 		},
 		{
-			"name": "Partner Self Hosted Callback Flow",
+			"name": "Merchant Self Hosted Callback Flow",
 			"item": [
 				{
 					"name": "banks",
